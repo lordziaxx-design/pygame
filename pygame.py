@@ -69,7 +69,7 @@ TRANSFORMS = {
     7: dict(scale=(160, 160), angle=90,   pos=(300, 300), shear_x=0.0,  shear_y=0.0),
     8: dict(scale=(220, 160), angle=-45, pos=(110, 450), shear_x=0.0,  shear_y=0.0),
     9: dict(scale=(280, 280), angle=10,  pos=(440, 340), shear_x=0.25, shear_y=0.15),
-
+}
 current_transform = 1
 
 run = True
